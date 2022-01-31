@@ -1,0 +1,17 @@
+.container{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+}
+
+.listContainer{
+    padding-left: 50px;
+    padding-right: 60px;
+    width: 800px;
+}
+
+.addContainer{
+    margin: 50px;
+    height: 50px;
+    width: 500px;
+}
